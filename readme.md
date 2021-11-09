@@ -17,8 +17,8 @@ own tasks.
 - [ ] Create a .gitignore file to exclude all files you don't need to track
 - [x] Create a virtual environment using [pipenv](https://pypi.org/project/pipenv/) 
 - [x] Install Django in your env
-- [ ] Create a new project
-- [ ] Start a new App
+- [x] Create a new project
+- [x] Start a new App
 - [ ] Initialize your database to create users
 - [ ] Create a model for tasks
 - [ ] Create a "show all my tasks" view
