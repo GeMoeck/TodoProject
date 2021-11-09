@@ -13,10 +13,10 @@ own tasks.
 
 ## Todos
 
-- [ ] Create a project folder
+- [x] Create a project folder
 - [ ] Create a .gitignore file to exclude all files you don't need to track
-- [ ] Create a virtual environment using [pipenv](https://pypi.org/project/pipenv/) 
-- [ ] Install Django in your env
+- [x] Create a virtual environment using [pipenv](https://pypi.org/project/pipenv/) 
+- [x] Install Django in your env
 - [ ] Create a new project
 - [ ] Start a new App
 - [ ] Initialize your database to create users
