@@ -19,7 +19,7 @@ own tasks.
 - [x] Install Django in your env
 - [x] Create a new project
 - [x] Start a new App
-- [ ] Initialize your database to create users
+- [x] Initialize your database to create users
 - [ ] Create a model for tasks
 - [ ] Create a "show all my tasks" view
 - [ ] Create an edit task view
