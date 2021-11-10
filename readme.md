@@ -14,7 +14,7 @@ own tasks.
 ## Todos
 
 - [x] Create a project folder
-- [ ] Create a .gitignore file to exclude all files you don't need to track
+- [x] Create a .gitignore file to exclude all files you don't need to track
 - [x] Create a virtual environment using [pipenv](https://pypi.org/project/pipenv/) 
 - [x] Install Django in your env
 - [x] Create a new project
