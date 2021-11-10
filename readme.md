@@ -21,7 +21,7 @@ own tasks.
 - [x] Start a new App
 - [x] Initialize your database to create users
 - [x] Create a model for tasks
-- [ ] Create a "show all my tasks" view
+- [x] Create a "show all my tasks" view
 - [ ] Create an edit task view
 - [ ] Create a delete task view
 - [ ] Create a finished task view
