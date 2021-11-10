@@ -22,7 +22,7 @@ own tasks.
 - [x] Initialize your database to create users
 - [x] Create a model for tasks
 - [x] Create a "show all my tasks" view
-- [ ] Create an edit task view
+- [x] Create an edit task view
 - [ ] Create a delete task view
 - [ ] Create a finished task view
 - [ ] Create a dashboard in which users can see how many tasks are open and ho many they have done today
