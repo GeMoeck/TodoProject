@@ -20,7 +20,7 @@ own tasks.
 - [x] Create a new project
 - [x] Start a new App
 - [x] Initialize your database to create users
-- [ ] Create a model for tasks
+- [x] Create a model for tasks
 - [ ] Create a "show all my tasks" view
 - [ ] Create an edit task view
 - [ ] Create a delete task view
