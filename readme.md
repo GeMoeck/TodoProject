@@ -23,7 +23,7 @@ own tasks.
 - [x] Create a model for tasks
 - [x] Create a "show all my tasks" view
 - [x] Create an edit task view
-- [ ] Create a delete task view
+- [x] Create a delete task view
 - [ ] Create a finished task view
 - [ ] Create a dashboard in which users can see how many tasks are open and ho many they have done today
 - [ ] Make sure each user can only see his/her own tasks
