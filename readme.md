@@ -26,8 +26,8 @@ own tasks.
 - [x] Create a delete task view
 - [x] Create a finished task view
 - [x] Create a dashboard in which users can see how many tasks are open and ho many they have done today
-- [ ] Make sure each user can only see his/her own tasks
-- [ ] Make sure only logged in users can see tasks
+- [x] Make sure each user can only see his/her own tasks
+- [x] Make sure only logged in users can see tasks
 
 
 ## Track your poject in Github 
